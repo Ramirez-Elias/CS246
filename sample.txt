@@ -1,2 +1,3 @@
 This is a sample file
 Second line entered in GitHub
+Third line entered in git bash
